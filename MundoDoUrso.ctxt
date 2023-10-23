@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MundoDoUrso
+comment0.text=\r\n\ Um\ mundo\ onde\ ursos\ vivem.\r\n\ \r\n\ Traduzido\ por\ Julio\ C\u00E9sar\ Alves.\ Vers\u00E3o\ 2023.10.23\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=MundoDoUrso()
+comment1.text=\r\n\ Cria\ um\ novo\ mundo\ com\ 8x8\ c\u00E9lulas,\ com\r\n\ c\u00E9lulas\ de\ tamanho\ 60x60\ pixels\r\n
+comment2.params=
+comment2.target=void\ povoar()
+comment2.text=\r\n\ Povoa\ o\ mundo\ com\ um\ cen\u00E1rio\ fixo\ de\ ursos\ e\ folhas.\r\n
+comment3.params=quantas
+comment3.target=void\ folhasAleatorias(int)
+comment3.text=\r\n\ Coloca\ uma\ quantidade\ de\ folhas\ no\ mundo\ em\ lugares\ aleat\u00F3rios.\r\n\ O\ n\u00FAmero\ de\ folhas\ pode\ ser\ informado.\r\n
+numComments=4
